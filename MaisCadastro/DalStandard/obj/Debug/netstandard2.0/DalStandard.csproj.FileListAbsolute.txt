@@ -1,0 +1,9 @@
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\bin\Debug\netstandard2.0\DalStandard.deps.json
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\bin\Debug\netstandard2.0\DalStandard.dll
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\obj\Debug\netstandard2.0\DalStandard.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\obj\Debug\netstandard2.0\DalStandard.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\obj\Debug\netstandard2.0\DalStandard.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\obj\Debug\netstandard2.0\DalStandard.AssemblyInfo.cs
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\bin\Debug\netstandard2.0\DalStandard.pdb
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\obj\Debug\netstandard2.0\DalStandard.dll
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DalStandard\obj\Debug\netstandard2.0\DalStandard.pdb

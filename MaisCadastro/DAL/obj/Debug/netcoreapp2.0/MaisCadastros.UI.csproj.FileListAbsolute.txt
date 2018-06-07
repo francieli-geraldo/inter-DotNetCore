@@ -1,0 +1,14 @@
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\bin\Debug\netcoreapp2.0\MaisCadastros.UI.deps.json
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\bin\Debug\netcoreapp2.0\MaisCadastros.UI.runtimeconfig.json
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\bin\Debug\netcoreapp2.0\MaisCadastros.UI.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\bin\Debug\netcoreapp2.0\MaisCadastros.UI.dll
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\bin\Debug\netcoreapp2.0\MaisCadastros.UI.pdb
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\obj\Debug\netcoreapp2.0\MaisCadastros.UI.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\obj\Debug\netcoreapp2.0\MaisCadastros.UI.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\obj\Debug\netcoreapp2.0\MaisCadastros.UI.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\obj\Debug\netcoreapp2.0\MaisCadastros.UI.AssemblyInfo.cs
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\obj\Debug\netcoreapp2.0\MaisCadastros.UI.csproj.CopyComplete
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\obj\Debug\netcoreapp2.0\MaisCadastros.UI.dll
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\obj\Debug\netcoreapp2.0\MaisCadastros.UI.pdb
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\bin\Debug\netcoreapp2.0\DalStandard.dll
+C:\Users\Fran\Desktop\faculdade\C#\InterCSharp\MaisCadastro\DAL\bin\Debug\netcoreapp2.0\DalStandard.pdb
